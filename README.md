@@ -33,6 +33,9 @@
  <a href="https://twitter.com/adam_pithenwala" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="hildhan" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/channel/UCsE0ohyJsrVtOynmC43dHOw" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
+      alt="hildhan" height="30" width="40" /></a>
 </p>
 
 <br>
@@ -60,6 +63,24 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs" width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
+      width="40" height="40" /> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img
+      src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" alt="php"
+      width="40" height="40" /> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img
+      src="https://static-00.iconduck.com/assets.00/laravel-icon-1990x2048-xawylrh0.png" alt="laravel"
+      width="40" height="40" /> </a> <a href="https://wordpress.org/" target="_blank" rel="noreferrer"> <img
+      src="https://cdn-icons-png.flaticon.com/512/174/174881.png" alt="wordpress"
+      width="40" height="40" /> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img
+      src="https://cdn.iconscout.com/icon/free/png-256/free-figma-2296071-1912030.png" alt="figma"
+      width="40" height="40" /> </a> <a href="https://analytics.google.com/" target="_blank" rel="noreferrer"> <img
+      src="https://cdn.iconscout.com/icon/free/png-256/free-google-analytics-2038769-1721667.png?f=webp" alt="google analytic"
+      width="40" height="40" /> </a> <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img
+      src="https://cdn.iconscout.com/icon/free/png-256/free-google-cloud-2038785-1721675.png" alt="google cloud"
+      width="40" height="40" /> </a> <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img
+      src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" alt="flutter"
+      width="40" height="40" /> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img
+      src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/unity-512.png" alt="unity"
+      width="40" height="40" /> </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img
+      src="https://code.visualstudio.com/assets/apple-touch-icon.png" alt="vs"
       width="40" height="40" /> </a> </p>
 
 <br>
