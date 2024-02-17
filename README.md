@@ -21,9 +21,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/hildhan-fauzul-hakim" target="blank"><img align="center"
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/768px-LinkedIn_icon.svg.png"
-      alt="hildhan" height="30" width="30" /></a>
   <a href="https://facebook.com/hildhan.hakim" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="hildhan" height="30" width="40" /></a>
@@ -36,6 +33,9 @@
   <a href="https://www.youtube.com/channel/UCsE0ohyJsrVtOynmC43dHOw" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
       alt="hildhan" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/hildhan-fauzul-hakim" target="blank"><img align="center"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/768px-LinkedIn_icon.svg.png"
+      alt="hildhan" height="30" width="30" /></a>
 </p>
 
 <br>
