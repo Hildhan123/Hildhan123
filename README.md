@@ -4,7 +4,7 @@
 <br>
 <br>
 
-<p><img align="right" src="https://github.com/Hildhan123/profile/blob/main/gamedev.gif" alt="hildhan" /></p>
+<p><img align="right" src="https://github.com/Hildhan123/profile/blob/main/gamedev.gif" alt="hildhan" height="400"/></p>
 
 
 - 🌱 I’m currently fresh graduate from computer science/engineering.
@@ -96,10 +96,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hildhan123&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="hildhan" /></p>
 -->
-
+<!-- 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hildhan123&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="hildhan" /></p>
       
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+-->
 [Hildhan Hakim](https://github.com/hildhan123)
