@@ -4,12 +4,12 @@
 <br>
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/Hildhan123/profile/blob/main/gamedev.gif" alt="hildhan" /></p>
 
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 I’m currently fresh graduate from computer science/engineering.
 
-- 📫 How to reach me **adampithewan@gmail.com**
+- 📫 How to reach me **hildhan123@gmail.com**
 
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
