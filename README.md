@@ -13,25 +13,26 @@
 
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
+- 🎮 Hobby : Playing games and sport.
+
+- 🌐 Dont forget to check my portfolio here <a href="https://hildhan.my.id">https://hildhan.my.id</a>
+
 <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/adam-pithewan/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
-  <a href="https://fb.com/adam pithen wala" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/hildhan-fauzul-hakim" target="blank"><img align="center"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/768px-LinkedIn_icon.svg.png"
+      alt="hildhan" height="30" width="30" /></a>
+  <a href="https://facebook.com/hildhan.hakim" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="adam pithen wala" height="30" width="40" /></a>
-  <a href="https://instagram.com/_._.adam._" target="blank"><img align="center"
+      alt="hildhan" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/hakim_hildhan" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/adampithewan" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="adampithewan" height="30" width="40" /></a>
+      alt="hildhan" height="30" width="40" /></a>
  <a href="https://twitter.com/adam_pithenwala" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="adampithewan" height="30" width="40" /></a>
+      alt="hildhan" height="30" width="40" /></a>
 </p>
 
 <br>
@@ -82,20 +83,19 @@
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="adam-pw" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=hildhan123&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="hildhan" 
     bg_color=#808080/></p>
 
-<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="adam-pw" /></p>
+<!-- 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hildhan123&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="hildhan" /></p>
+-->
 
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adam-pw&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hildhan123&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="hildhan" /></p>
       
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-[Adam-pw](https://github.com/Adam-pw)
+[Hildhan](https://github.com/hildhan123)
